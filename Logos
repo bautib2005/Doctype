@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>hello mother</h1>
+    <a href="https://codepen.io/" target="_blank"><h3>CodePen</h3></a>
+    <a href="https://codepen.io/"><img src="1377243.png" type="image/png" alt="Imagen de Codepen" height="100px" ></a>
+    <a href="https://brave.com/es/" target="_blank"><h3>Brave</h3></a>
+    <a href="https://brave.com/es/" target="_blank"><img src="brave_logo.png" type="image/png" alt="Imagen de Brave" height="100px" ></a>
+    <a href="https://www.java.com/es/" target="_blank"><h3>Java</h3></a>
+    <a href="https://www.java.com/es/" target="_blank"><img src="181_Java_logo_logos-512.webp" type="image/webp" alt="Imagen de Java" height="100px" ></a>
+    <a href="https://github.com/" target="_blank"><h3>GitHub</h3></a>
+    <a href="https://github.com/" target="_blank"><img src="images.png" type="image/png" alt="Imagen de GitHub" height="100px" ></a>
+    <a href="https://x.com/" target="_blank"><h3>X</h3></a>
+    <a href="https://x.com/" target="_blank"><img src="images (1).png" type="image/png" alt="Imagen de X" height="100px" ></a>
+</body>
+</html>
